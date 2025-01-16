@@ -1,0 +1,62 @@
+[
+  {
+    "nume": "Ion Popescu",
+    "postul": "director general",
+    "dataAngajarii": [2022, 7, 1],
+    "salariul": 5000
+  },
+  {
+    "nume": "Maria Ionescu",
+    "postul": "sef departament",
+    "dataAngajarii": [2021, 4, 15],
+    "salariul": 4500
+  },
+  {
+    "nume": "Andrei Vasilescu",
+    "postul": "programator",
+    "dataAngajarii": [2023, 5, 20],
+    "salariul": 4000
+  },
+  {
+    "nume": "Elena Georgescu",
+    "postul": "contabil",
+    "dataAngajarii": [2020, 11, 5],
+    "salariul": 3000
+  },
+  {
+    "nume": "Victor Radu",
+    "postul": "tehnician",
+    "dataAngajarii": [2019, 6, 10],
+    "salariul": 2800
+  },
+  {
+    "nume": "Laura Dobre",
+    "postul": "analist financiar",
+    "dataAngajarii": [2021, 8, 25],
+    "salariul": 3500
+  },
+  {
+    "nume": "Cristian Marin",
+    "postul": "administrator retea",
+    "dataAngajarii": [2018, 12, 18],
+    "salariul": 3200
+  },
+  {
+    "nume": "Ana Iliescu",
+    "postul": "manager resurse umane",
+    "dataAngajarii": [2022, 3, 10],
+    "salariul": 4700
+  },
+  {
+    "nume": "Radu Dumitrescu",
+    "postul": "operator",
+    "dataAngajarii": [2023, 7, 5],
+    "salariul": 2500
+  },
+  {
+    "nume": "Diana Pop",
+    "postul": "sef productie",
+    "dataAngajarii": [2021, 6, 15],
+    "salariul": 4200
+  }
+]
