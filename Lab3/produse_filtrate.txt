@@ -1,0 +1,3 @@
+Produs: zahar, Pret: 1.5, Cantitate: 50, DataExpirarii: 2024-02-25
+Produs: lapte, Pret: 3.2, Cantitate: 8, DataExpirarii: 2023-11-15
+Produs: faina, Pret: 2.8, Cantitate: 0, DataExpirarii: 2023-10-10
